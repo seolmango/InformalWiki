@@ -1,0 +1,22 @@
+{
+  "name": "informalwiki",
+  "version": "1.0.0",
+  "description": "사용자 커스텀이 가능한 위키엔진입니다",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seol7523/InformalWiki.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Seol7523/InformalWiki/issues"
+  },
+  "homepage": "https://github.com/Seol7523/InformalWiki#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
